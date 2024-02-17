@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hola, soy Daniel Cuesta 😉, un programador 👨🏻‍💻 de España. Soy Desarrollador Web. Actualmente, estudio en IES Barajas (Madrid).
+Hola, soy Daniel Cuesta 😉, un programador 👨🏻‍💻 de España. Soy estudiante de Desarrollo de Aplicaciones Web en el IES Barajas.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
