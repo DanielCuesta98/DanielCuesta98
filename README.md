@@ -17,9 +17,9 @@ Hola, soy Daniel Cuesta 😉, un programador 👨🏻‍💻 de España. Soy est
 **Estado actual**
 
 - 👨🏻‍💻 Actualmente estoy estudiando en IES Barajas.
-- 🌱 Actualmente estoy aprendiendo Javascript y PHP.
+- 🌱 Aprendiendo Javascript y PHP.
 - 💬 Pregúntame sobre cualquier cosa.
-- 📫 Por favor, envía un correo electrónico a danicu988@gmail.com para contactarme.
+- 📫 Envía un correo electrónico a danicu988@gmail.com para contactarme.
 
 ![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=DanielCuesta98&show_icons=true&hide_border=true)
 
