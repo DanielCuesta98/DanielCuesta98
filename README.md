@@ -17,7 +17,7 @@ Hola, soy Daniel Cuesta 😉, un programador 👨🏻‍💻 de España. Soy est
 **Estado actual**
 
 - 👨🏻‍💻 Actualmente estoy estudiando en IES Barajas.
-- 🌱 Aprendiendo Javascript y PHP.
+- 🌱 Conocimientos en JS, PHP, Java, SQL , HTML y CSS.
 - 💬 Pregúntame sobre cualquier cosa.
 - 📫 Envía un correo electrónico a danicu988@gmail.com para contactarme.
 
