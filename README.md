@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile👋
+### Bienvenido a mi perfil de Github👋
 
 <a href="https://www.linkedin.com/in/daniel-c-255906233/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
@@ -10,16 +10,16 @@
 <br />
 <br />
 
-Hi, I'm Daniel Cuesta 😉, a programmer 👨🏻‍💻 from Spain. I'm a Web Developer. Currently, studying on IES Barajas (Madrid).
+Hola, soy Daniel Cuesta 😉, un programador 👨🏻‍💻 de España. Soy Desarrollador Web. Actualmente, estudio en IES Barajas (Madrid).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-**Current Status Quo**
+**Estado actual**
 
-- 👨🏻‍💻 I’m currently studying on IES Barajas.
-- 🌱 I’m currently learning Javascript and PHP.
-- 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via danicu988@gmail.com to reach me.
+- 👨🏻‍💻 Actualmente estoy estudiando en IES Barajas.
+- 🌱 Actualmente estoy aprendiendo Javascript y PHP.
+- 💬 Pregúntame sobre cualquier cosa.
+- 📫 Por favor, envía un correo electrónico a danicu988@gmail.com para contactarme.
 
 ![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=DanielCuesta98&show_icons=true&hide_border=true)
 
